@@ -21,6 +21,6 @@ jobs:
         with:
             platforms: 'linux/amd64, darwin/amd64, windows/amd64'
             package: 'main'
-            name: 'program'
+            name: 'main'
             compress: 'true'
             dest: 'dist'
